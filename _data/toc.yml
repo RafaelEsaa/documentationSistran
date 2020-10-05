@@ -1,0 +1,27 @@
+- title: Documentation
+  url: docs
+  links:
+    - title: "Productos"
+      url: "docs/getting-started"
+      children:
+        - title: Features
+          url: "docs/getting-started#getting-started"
+        - title: Development
+          url: "docs/getting-started#development"
+        - title: Customization
+          url: "docs/getting-started#customization"
+        - title: Prueba
+          url: "docs/getting-started#prueba"
+    - title: "Arquitectura"
+      url: "docs/arquitectura/index"
+      children:
+        - title: Intro Markdown
+          url: "docs/arquitectura/intro-markdown"
+        - title: Guia rapida uso del repositorio
+          url: "docs/arquitectura/guia-rapida-uso-repositorio-git"
+        - title: Guia markdown
+          url: "docs/arquitectura/guia-markdown"
+    - title: "About"
+      url: "about"
+    - title: "News"
+      url: "news"
